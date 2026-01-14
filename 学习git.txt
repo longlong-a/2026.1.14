@@ -1,1 +1,5 @@
 git练习 这是我的第一个git练习文件
+
+现在写完了git add 
+git commit
+git status和git log都体验过了 修改一下文件看看再git status
