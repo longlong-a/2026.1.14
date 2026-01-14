@@ -6,3 +6,6 @@ git status和git log都体验过了 修改一下文件看看再git status
 
 
 还是让我改这个？ 我现在切换到了一个新的分支  git checkout -b feature/add-zal 这个命令切换到的——autohr -zal~
+
+
+现在是第四次 我在github上修改了这个文件 
